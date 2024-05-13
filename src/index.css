@@ -11,3 +11,29 @@ code {
   font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
     monospace;
 }
+.h2 {
+  background-color: purple;
+  color: white;
+  font-size: 75px;
+}
+.table, th, td {
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 10px 30px;
+  text-align: center;
+  margin-left: 30px;
+}
+.table{
+  border: 1px solid grey;
+  border-collapse: collapse;
+  padding: 10px 30px;
+  text-align: center;
+  margin: 0 auto;  
+  margin: 0 auto;
+
+}
+.table-container { 
+  text-align: center;
+  margin: 0 auto;
+
+}
